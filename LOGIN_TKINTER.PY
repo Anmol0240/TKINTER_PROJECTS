@@ -9,7 +9,7 @@ frame=tkinter.Frame(bg='black')
 
 
 # creating a widgets
-login_label = tkinter.Label(frame, text="U Chat",bg='black',fg='yellow',font=("bold",50))
+login_label = tkinter.Label(frame, text="GitChat",bg='black',fg='yellow',font=("bold",50))
 
 username_label= tkinter.Label(frame, text="username",bg='black',fg='white',font=("arial",20))
 username_entry=tkinter.Entry(frame)
